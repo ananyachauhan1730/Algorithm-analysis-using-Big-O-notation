@@ -44,6 +44,8 @@ Bubble Sort repeatedly compares adjacent elements and swaps them if they are in 
 
 9.Insert key at its correct position (A[j + 1] = key).
 
+10.end 
+
 # Conclusion:
 Conclusion
 
@@ -57,4 +59,4 @@ Sorting is fundamental in computer science, and understanding simple algorithms 
 
 Repeat for all elements.
 
-End – array is sorted.
+
